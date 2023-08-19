@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "MyReactNativeAp",
-    "slug": "MyReactNativeAp",
+    "name": "Shoe-shop",
+    "slug": "MyReactNativeApp",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/favicon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/unsplash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#488600"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -19,8 +19,8 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
+        "foregroundImage": "./assets/foreground.png",
+        "backgroundColor": "#488600"
       }
     },
     "web": {
